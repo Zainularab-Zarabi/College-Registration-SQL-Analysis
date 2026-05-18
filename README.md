@@ -41,10 +41,7 @@ The SQL script answers questions such as:
 7. How can joins be used to build reporting-style outputs across multiple related tables?
 
 ## Screenshots
-![Dashboard 1](./images/college_registration_sql/images/sql1.png)
-
-![Dashboard 2](./images/college_registration_sql/images/sql4.png)
-![Screenshots](images/sql1.png)
+![Screenshots](college_registration_sql/images/sql1.png)
 ## Key Takeaways
 - Multi table joins are useful for combining normalized data into readable reports.
 - LEFT JOIN queries help identify missing relationships, such as students with no enrollments.
