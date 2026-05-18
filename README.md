@@ -43,7 +43,7 @@ The SQL script answers questions such as:
 ## Screenshots
 ![Dashboard 1](./images/college_registration_sql/images/sql1.png)
 
-![Dashboard 2](./images/sql4.png)
+![Dashboard 2](./images/college_registration_sql/images/sql4.png)
 
 ## Key Takeaways
 - Multi table joins are useful for combining normalized data into readable reports.
