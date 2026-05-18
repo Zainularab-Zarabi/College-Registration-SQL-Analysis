@@ -41,9 +41,9 @@ The SQL script answers questions such as:
 7. How can joins be used to build reporting-style outputs across multiple related tables?
 
 ## Screenshots
-![Database](./images/sql2.png)
-![Database](./images/sql5.png)
-![Database](./images/sql6.png)
+![Dashboard 1](./images/sql2.png)
+
+![Dashboard 2](./images/sql4.png)
 
 ## Key Takeaways
 - Multi table joins are useful for combining normalized data into readable reports.
