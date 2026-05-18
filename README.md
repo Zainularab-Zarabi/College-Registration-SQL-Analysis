@@ -41,7 +41,7 @@ The SQL script answers questions such as:
 7. How can joins be used to build reporting-style outputs across multiple related tables?
 
 ## Screenshots
-![Dashboard 1](./images/sql2.png)
+![Dashboard 1](./images/college_registration_sql/images/sql1.png)
 
 ![Dashboard 2](./images/sql4.png)
 
