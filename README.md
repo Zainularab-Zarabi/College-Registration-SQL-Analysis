@@ -42,6 +42,9 @@ The SQL script answers questions such as:
 
 ## Screenshots
 ![Screenshots](college_registration_sql/images/sql1.png)
+![Screenshots](college_registration_sql/images/sql5.png)
+![Screenshots](college_registration_sql/images/sql6.png)
+
 ## Key Takeaways
 - Multi table joins are useful for combining normalized data into readable reports.
 - LEFT JOIN queries help identify missing relationships, such as students with no enrollments.
